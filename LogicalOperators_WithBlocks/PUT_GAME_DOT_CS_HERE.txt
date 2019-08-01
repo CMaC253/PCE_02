@@ -1,0 +1,7 @@
+Put the Game.cs file for the LogicalOperators_WithBlocks exercise in this folder.
+
+You can find the Game.cs file inside the following folder:
+
+CSharp.zip\BlockBreaker\BlockBreaker\BlockBreaker
+
+(You download the CSharp.zip file from the web page for the LogicalOperators_WithBlocks tutorial)
